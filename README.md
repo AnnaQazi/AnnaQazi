@@ -12,7 +12,7 @@ Hi there 👋, I'm Anna Qazi
 
 **My Linkedin:-**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anna-qazi-955b9535a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-qazi-48971336b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 **My Instagram**
 
